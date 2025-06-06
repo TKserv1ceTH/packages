@@ -4,6 +4,7 @@ com.TMBTOUCH.PRODUCTION
 com.adobe.lrmobile
 com.agoda.mobile.consumer
 com.ais.mimo.AISPlay
+com.lazada.android
 com.ais.mimo.eservice
 com.amazon.avod.thirdpartyclient
 com.android.email
