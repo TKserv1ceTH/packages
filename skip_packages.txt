@@ -1,4 +1,11 @@
-﻿th.go.dopa.bora.dims.ddopa
+th.go.dopa.bora.dims.ddopa
+com.kasikorn.retail.mbanking.wap
+com.samsung.rms.retailagent.global
+com.google.android.safetycore
+com.google.android.contactkeys
+
+com.mdmfixtool.kgclient
+com.scb.phone
 com.whatapp
 com.kasikornbank.makebykbank
 com.ais.mimo.eservice
