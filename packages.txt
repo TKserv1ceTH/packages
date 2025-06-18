@@ -4,6 +4,12 @@ antivirus.virus.cleaner.clean.vpn.booster
 apk.uninstall
 com.xif.clean.file
 com.MeshGames.TankGames
+com.buddhist.holydays
+com.lis.gamelist.hmmod
+com.wingmoney.wingpay
+com.laljieoein.safe
+com.kingcraft.moneysaving.moneylove
+com.dramawave.app
 com.appxrayservice.namovpn
 applock.lockapps.fingerprint.password.lockit
 appupdate.latestsoftware.updateapplist
