@@ -7,6 +7,12 @@ com.MeshGames.TankGames
 com.buddhist.holydays
 com.lis.gamelist.hmmod
 com.wingmoney.wingpay
+com.buddhist.holydays
+com.lis.gamelist.hmmod
+com.wingmoney.wingpay
+com.laljieoein.safe
+com.kingcraft.moneysaving.moneylove
+com.dramawave.app
 com.laljieoein.safe
 com.kingcraft.moneysaving.moneylove
 com.dramawave.app
