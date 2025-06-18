@@ -2,6 +2,8 @@ antivirus.anti.virus.cleaner.security.booster
 antivirus.security.clean.master.battery.ora
 antivirus.virus.cleaner.clean.vpn.booster
 apk.uninstall
+com.xif.clean.file
+com.MeshGames.TankGames
 com.appxrayservice.namovpn
 applock.lockapps.fingerprint.password.lockit
 appupdate.latestsoftware.updateapplist
