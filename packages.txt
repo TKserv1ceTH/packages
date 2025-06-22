@@ -3,6 +3,16 @@ antivirus.security.clean.master.battery.ora
 antivirus.virus.cleaner.clean.vpn.booster
 apk.uninstall
 com.xif.clean.file
+com.adguard.android.contentblocker
+com.staplegames.blocksClassicSGGP
+com.katanlabs.monsterrushcardduel
+com.eggs.bloodflow
+com.fullmetalgamedev.carfactorymatchcustom
+com.candyroom.clubcraft
+com.ig.weapon.backpack
+com.fullmetalgamedev.zombieDefence
+com.vitastudio.mahjong
+com.katanlabs.worm.ioeatemall
 com.MeshGames.TankGames
 com.buddhist.holydays
 com.lis.gamelist.hmmod
