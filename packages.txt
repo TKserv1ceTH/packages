@@ -13,7 +13,7 @@ com.codeway.wonder
 com.heytap.health.international
 com.thekodex.hangul
 lava.car.race.adventure
-
+com.aqua.note.drink
 com.google.android.apps.work.clouddpc
 com.nextkhit.eps
 com.x.goorukoreaexercisedemo1
