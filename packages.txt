@@ -16,6 +16,7 @@ com.anglow.mepapers
 com.troch.hyphen 
 com.powerplay.backgrounds 
 com.timeize.lessbtly
+com.zippyfast.clean
 
 org.chromium.webapk.af8606291a71e7e90_v2
 com.gpsaround.places.rideme.navigation.mapstracking
