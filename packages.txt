@@ -8,9 +8,15 @@ com.dz.heddx
 com.amazon.appmanager
 com.soulcompany.bubbleshooter.relaxing
 com.tidyupclean.cleanup.tool
+com.studio501.cuphero
 com.boostloop.wiperight.cleanx
 com.nanoforward.wifilink
+com.GnarlyGameStudio.FrontlineHeroes
 com.guardian.clean.junk
+com.meaghan.barrydhatchett.jesusconroy
+com.playakor.clashofcolor
+com.dfp.qrt.cei
+match.three.flowers.cfg
 com.evergreen.wallpapers 
 com.anglow.mepapers 
 com.troch.hyphen 
@@ -19,7 +25,7 @@ com.timeize.lessbtly
 com.zippyfast.clean
 com.samsung.android.voc
 com.purefone.cleanmastera
-
+com.wogic2cozer.pusher.magic
 com.alldocument.hubhub
 com.miui.calculator.go
 com.asterix.clearspace.cleaner
