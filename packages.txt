@@ -10,6 +10,12 @@ com.soulcompany.bubbleshooter.relaxing
 com.tidyupclean.cleanup.tool
 com.boostloop.wiperight.cleanx
 com.nanoforward.wifilink
+com.guardian.clean.junk
+com.evergreen.wallpapers 
+com.anglow.mepapers 
+com.troch.hyphen 
+com.powerplay.backgrounds 
+com.timeize.lessbtly
 
 org.chromium.webapk.af8606291a71e7e90_v2
 com.gpsaround.places.rideme.navigation.mapstracking
