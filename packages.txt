@@ -1,10 +1,15 @@
 antivirus.anti.virus.cleaner.security.booster
 antivirus.security.clean.master.battery.ora
+com.breeze.clean.junk.clean
 antivirus.virus.cleaner.clean.vpn.booster
 apk.uninstall
 com.xif.clean.file
 com.s11.x  
 com.dz.heddx
+com.clearsense.cleaning
+com.phonemate.clean.tools
+com.natureclear.elenta.cleaner
+com.matchmania.perfectal
 com.zte.storagecleanup
 com.acecleaner.opt.clean
 com.tafayor.roxapp
