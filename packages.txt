@@ -8,6 +8,10 @@ com.s11.x
 com.dz.heddx
 com.clearsense.cleaning
 com.phonemate.clean.tools
+com.sukhavati.gotoplaying.bubble.BubbleShooter.tran
+go.cleaner.junk.clean.app
+sf.swift.files
+com.rhythm.rush.piano.music.tile.song.games.guitar.tiles
 com.natureclear.elenta.cleaner
 com.matchmania.perfectal
 com.zte.storagecleanup
