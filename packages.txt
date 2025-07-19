@@ -7,11 +7,14 @@ com.xif.clean.file
 com.s11.x  
 com.dz.heddx
 com.clearsense.cleaning
+com.spawn.clear.now.clean.junk
 com.phonemate.clean.tools
 com.sukhavati.gotoplaying.bubble.BubbleShooter.tran
 go.cleaner.junk.clean.app
+com.storage.master.file.clearpro
 com.file.recoveryultra.filerecovey
 com.freshen.upclean
+com.unbounded.uniplugin
 com.phonecleaner.cleanupcleaning
 com.wppemq.junkclean.xssxa
 com.sukhavati.gotoplaying.bubble.BubbleShooter.tran
