@@ -16,6 +16,14 @@ com.file.recoveryultra.filerecovey
 com.freshen.upclean
 com.unbounded.uniplugin
 com.phonecleaner.cleanupcleaning
+com.appspro.best.ringtones2017
+org.chromium.webapk.aee272d0d6111d53c_v2
+com.nature.hotwonder
+daily.connect.wifihelper
+com.dc.deep.clean
+clean.xxx.cleaner
+com.coloros.musiclink
+
 com.wppemq.junkclean.xssxa
 com.sukhavati.gotoplaying.bubble.BubbleShooter.tran
 go.cleaner.junk.clean.app
