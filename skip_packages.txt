@@ -4,8 +4,6 @@ com.TMBTOUCH.PRODUCTION
 com.adobe.lrmobile
 com.agoda.mobile.consumer
 com.ais.mimo.AISPlay
-com.yoosee
-com.lazada.android
 com.ais.mimo.eservice
 com.amazon.avod.thirdpartyclient
 com.android.email
@@ -96,6 +94,7 @@ com.viu.phone
 com.vkontakte.android
 com.wejoy.weplay
 com.whatapp
+com.yoosee
 com.zhiliaoapp.musically.go
 free.tube.premium.advanced.tuber
 gogolook.callgogolook2
