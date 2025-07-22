@@ -2,6 +2,8 @@ antivirus.anti.virus.cleaner.security.booster
 antivirus.security.clean.master.battery.ora
 antivirus.virus.cleaner.clean.vpn.booster
 apk.uninstall
+com.clearout.virexa.cleaner
+com.aisleclean.matercleantool
 applock.lockapps.fingerprint.password.lockit
 appupdate.latestsoftware.updateapplist
 authenticator.two.factor.authentication.otp
