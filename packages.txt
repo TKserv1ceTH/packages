@@ -12,6 +12,7 @@ batteryfullalarm.chargealarm.lowbatteryalarm
 cc.yoteshinportal.yoteshin_drive
 chargemaster.fastcharging.fastcharge.quickcharge
 clean.master.antivirus.battery.ora
+com.up.up.study.copper
 clean.phone.cleaner.boost.security.applock
 clean.xxx.cleaner
 com.play2048.simplygame
