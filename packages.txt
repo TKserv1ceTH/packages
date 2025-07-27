@@ -14,6 +14,12 @@ chargemaster.fastcharging.fastcharge.quickcharge
 clean.master.antivirus.battery.ora
 clean.phone.cleaner.boost.security.applock
 clean.xxx.cleaner
+com.play2048.simplygame
+com.cleanultra.sadesa.cleanup
+com.opera.preinstall
+com.gamelogix.junk.clean.lite
+com.rushroll.clean
+com.shield.roc.cleaner
 cleaner.antivirus
 cleaner.clean.booster
 cn.wps.moffice_eng
