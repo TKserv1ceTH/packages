@@ -16,6 +16,8 @@ clean.phone.cleaner.boost.security.applock
 clean.xxx.cleaner
 com.play2048.simplygame
 com.cleanultra.sadesa.cleanup
+photovideorecovery.recoverdeletedfilesphotovideo.azrecovery
+com.vmkoom.wifimap.connection.hotspot.wifianalyzer.password.anywhere
 com.opera.preinstall
 com.gamelogix.junk.clean.lite
 com.rushroll.clean
