@@ -19,7 +19,8 @@ blockpuzzle.new1010.jewelgames.puzzlegames
 com.zyanplay.siamchaiapp
 fileclean.master.freespace
 com.soul.lift.clean.nova
-
+com.fem.cycle.recorderheal
+com.jo2kw.skoxki
 ball.sort.color.water.puzzle.games
 batteryfullalarm.chargealarm.lowbatteryalarm
 cc.yoteshinportal.yoteshin_drive
@@ -548,3 +549,4 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
