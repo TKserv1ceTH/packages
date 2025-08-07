@@ -12,6 +12,9 @@ com.cleanultra.sadesa.cleanup
 com.opera.preinstall
 com.gamelogix.junk.clean.lite
 com.rushroll.clean
+com.akuxeq.clean.rocket
+com.boostone.clean
+com.atefdesignart.nexussecurity
 com.shield.roc.cleaner
 com.jogjateam.unlimited.clean.junk
 com.funny.wallty
@@ -549,4 +552,5 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
