@@ -4,6 +4,23 @@ antivirus.virus.cleaner.clean.vpn.booster
 apk.uninstall
 com.clearout.virexa.cleaner
 com.aisleclean.matercleantool
+com.splanet.winner
+com.apponemedia.filerecovery.photorecovery.alldatarecovery
+com.hoaduong.filerecovery.photorecovery.alldatarecovery
+com.filerecovery.datarecovery.restorephoto.deletedvideo
+jna.vision.barcode
+com.nimahdev.katamutiaraterindah
+com.alemdarapps.almprohdcamera
+com.deletedphotorecovery.filerecovery.restoredata
+com.rippleeffect.studiomindbender
+photorecover.filerecovery.alldatarestore
+recoverdeletedphotosvideos.photorecovery.azurafilesrecovery
+com.primetimeservice.primetime
+tv.mycujoo.mycujooplayer
+filerecovery.recoverdeletedphotosvideo.irecovery
+com.nexstarlab.filerecovery.photorecovery.airecovery
+com.tools.scanner.qrcodescan
+org.chromium.webapk.aad1af016fa2165af_v2
 applock.lockapps.fingerprint.password.lockit
 appupdate.latestsoftware.updateapplist
 authenticator.two.factor.authentication.otp
@@ -552,5 +569,6 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
