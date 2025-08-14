@@ -1,6 +1,7 @@
 antivirus.anti.virus.cleaner.security.booster
 antivirus.security.clean.master.battery.ora
 antivirus.virus.cleaner.clean.vpn.booster
+com.wp.clean.sep
 apk.uninstall
 com.clearout.virexa.cleaner
 com.aisleclean.matercleantool
@@ -8,6 +9,7 @@ com.splanet.winner
 com.apponemedia.filerecovery.photorecovery.alldatarecovery
 com.hoaduong.filerecovery.photorecovery.alldatarecovery
 com.filerecovery.datarecovery.restorephoto.deletedvideo
+com.eds.qcleanss
 jna.vision.barcode
 com.nimahdev.katamutiaraterindah
 com.alemdarapps.almprohdcamera
@@ -25,10 +27,12 @@ applock.lockapps.fingerprint.password.lockit
 appupdate.latestsoftware.updateapplist
 authenticator.two.factor.authentication.otp
 com.play2048.simplygame
+com.phone.antivirus.clean.aztac
 com.cleanultra.sadesa.cleanup
 com.opera.preinstall
 com.gamelogix.junk.clean.lite
 com.rushroll.clean
+com.phonecleaner.storagecleaner.junkcleaner.cleanphone
 com.akuxeq.clean.rocket
 com.boostone.clean
 com.atefdesignart.nexussecurity
@@ -569,6 +573,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
