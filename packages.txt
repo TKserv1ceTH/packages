@@ -3,6 +3,7 @@ antivirus.security.clean.master.battery.ora
 antivirus.virus.cleaner.clean.vpn.booster
 com.wp.clean.sep
 apk.uninstall
+com.x2p.copoclean
 com.clearout.virexa.cleaner
 com.aisleclean.matercleantool
 com.splanet.winner
@@ -573,6 +574,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
