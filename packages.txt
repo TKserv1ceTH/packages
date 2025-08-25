@@ -7,6 +7,7 @@ com.x2p.copoclean
 com.clearout.virexa.cleaner
 com.aisleclean.matercleantool
 com.splanet.winner
+com.phoneclone.sendanywhere.mobiletransfer.easymover.smartswitch
 com.clearout.virexa.cleaner
 com.apponemedia.filerecovery.photorecovery.alldatarecovery
 com.hoaduong.filerecovery.photorecovery.alldatarecovery
@@ -571,6 +572,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
