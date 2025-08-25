@@ -231,15 +231,10 @@ com.glimzoid.froobly.mad
 com.gomin.qrcode.barcode.scanner.reader
 com.goodsmatch3d.find.puzzle
 com.google.android.apps.chromecast.app
-com.google.android.apps.docs
 com.google.android.apps.magazines
 com.google.android.apps.podcasts
-com.google.android.apps.subscriptions.red
-com.google.android.apps.tachyon
 com.google.android.apps.work.clouddpc
 com.google.android.apps.youtube.music
-com.google.android.contactkeys
-com.google.android.videos
 com.gotoloan.cash
 com.gps.location.live.earth.map.diriving.direction.weather.voice.navigation
 com.gpsaround.places.rideme.navigation.mapstracking
@@ -575,6 +570,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
