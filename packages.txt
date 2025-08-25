@@ -14,6 +14,7 @@ com.filerecovery.datarecovery.restorephoto.deletedvideo
 com.eds.qcleanss
 jna.vision.barcode
 com.nimahdev.katamutiaraterindah
+com.m24apps.phoneswitch
 com.alemdarapps.almprohdcamera
 com.deletedphotorecovery.filerecovery.restoredata
 com.rippleeffect.studiomindbender
@@ -570,6 +571,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
