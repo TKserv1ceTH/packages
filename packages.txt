@@ -4,6 +4,10 @@ antivirus.virus.cleaner.clean.vpn.booster
 com.wp.clean.sep
 apk.uninstall
 com.x2p.copoclean
+com.cachecleaner.Onetapas
+com.cookie.worship
+com.android.calendar.go
+com.miui.calculator.go
 com.clearout.virexa.cleaner
 com.aisleclean.matercleantool
 com.splanet.winner
@@ -572,6 +576,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
