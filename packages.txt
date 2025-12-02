@@ -6,8 +6,19 @@ apk.uninstall
 com.x2p.copoclean
 com.cachecleaner.Onetapas
 com.cookie.worship
+com.hkjc.bet
+com.revmax.deep.cleaner
+net.siamdev.nattster.manman
+com.samsung.android.oneconnect
+hk.com.echome.crm
+com.bookfun365.BF365Shop
 com.android.calendar.go
+com.dufftranslate.cameratranslatorapp21
+com.dust.bloomclean.sweep
 com.miui.calculator.go
+com.eks.hkflight
+com.popchill.popchillapp
+com.nuptek.m6proplus
 com.clearout.virexa.cleaner
 com.aisleclean.matercleantool
 com.splanet.winner
@@ -576,6 +587,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
