@@ -5,6 +5,7 @@ com.wp.clean.sep
 apk.uninstall
 com.x2p.copoclean
 com.cachecleaner.Onetapas
+com.bochk.app.aos
 com.cookie.worship
 com.hkjc.bet
 com.revmax.deep.cleaner
@@ -587,6 +588,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
