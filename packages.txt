@@ -4,11 +4,30 @@ antivirus.virus.cleaner.clean.vpn.booster
 com.wp.clean.sep
 apk.uninstall
 com.x2p.copoclean
+com.easybrain.jigsaw.puzzles
+com.google.android.apps.podcasts
+com.heytap.quickgame
+com.jts.im
+com.klook
+com.my.cooking.chef.kitchen.craze.fever
+com.outfit7.mytalkingangela2
+com.pdf.viewer.edit
+com.supercell.hayday
+com.snowcorp.epik
+com.xt.retouchoversea
+ee.mtakso.client
+com.bigwinepot.nwdn.international
+com.dimekkp.dimeapp
+
+
+
+com.niksoftware.snapseed
 com.cachecleaner.Onetapas
 com.bochk.app.aos
 com.cookie.worship
 com.hkjc.bet
 com.revmax.deep.cleaner
+com.android.email
 net.siamdev.nattster.manman
 com.samsung.android.oneconnect
 hk.com.echome.crm
@@ -588,6 +607,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
