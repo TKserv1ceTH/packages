@@ -20,7 +20,7 @@ com.bigwinepot.nwdn.international
 com.dimekkp.dimeapp
 com.uniqlo.th.catalogue
 com.viewerd.dhpg.pdfedtor.quick
-
+com.google.android.apps.podcasts
 com.niksoftware.snapseed
 com.cachecleaner.Onetapas
 com.bochk.app.aos
@@ -607,6 +607,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
