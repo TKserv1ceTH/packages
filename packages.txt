@@ -9,6 +9,7 @@ com.google.android.apps.podcasts
 com.heytap.quickgame
 com.jts.im
 com.klook
+com.lenskart.app
 com.my.cooking.chef.kitchen.craze.fever
 com.outfit7.mytalkingangela2
 com.pdf.viewer.edit
@@ -607,6 +608,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
