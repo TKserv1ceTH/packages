@@ -18,8 +18,8 @@ com.xt.retouchoversea
 ee.mtakso.client
 com.bigwinepot.nwdn.international
 com.dimekkp.dimeapp
-
-
+com.uniqlo.th.catalogue
+com.viewerd.dhpg.pdfedtor.quick
 
 com.niksoftware.snapseed
 com.cachecleaner.Onetapas
@@ -607,6 +607,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
