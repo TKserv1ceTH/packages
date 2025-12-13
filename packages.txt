@@ -5,6 +5,23 @@ com.wp.clean.sep
 apk.uninstall
 com.x2p.copoclean
 com.easybrain.jigsaw.puzzles
+com.artful.buwall
+com.bigbluebubble.singingmonsters.full
+com.Cleano.revuo
+com.cluttercrusher.clean.master
+com.daqwe.oluora.catol
+com.dust.bloomclean.sweep
+com.laboladoapp.labo_tank
+com.maxgames.stickwarlegacy
+com.robtopx.geometryjumplite
+com.sec.android.app.kidshome
+com.sec.android.app.fm
+
+gg.oneesports
+
+
+
+
 com.google.android.apps.podcasts
 com.heytap.quickgame
 com.jts.im
@@ -609,6 +626,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
