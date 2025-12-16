@@ -7,6 +7,18 @@ com.x2p.copoclean
 com.easybrain.jigsaw.puzzles
 com.artful.buwall
 com.bigbluebubble.singingmonsters.full
+com.NeoClean.black
+
+
+
+
+
+
+
+
+
+
+com.filem.magliz.textscan.fdozn
 com.Cleano.revuo
 com.cluttercrusher.clean.master
 com.daqwe.oluora.catol
@@ -627,6 +639,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
