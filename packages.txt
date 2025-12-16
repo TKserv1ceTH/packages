@@ -16,15 +16,16 @@ com.maxgames.stickwarlegacy
 com.robtopx.geometryjumplite
 com.sec.android.app.kidshome
 com.sec.android.app.fm
-
+com.coloros.backuprestore
 gg.oneesports
-
-
-
-
+com.coloros.onekeylockscreen
+com.filem.magliz.textscan.fdozn
+com.JindoBlu.Antistress
+com.sobutn.kito
 com.google.android.apps.podcasts
 com.heytap.quickgame
 com.jts.im
+com.zoovex.pro.zoom
 com.klook
 com.lenskart.app
 com.my.cooking.chef.kitchen.craze.fever
@@ -626,6 +627,7 @@ vaku.antivirus.android.viruscleaner
 world.casino.omeiy
 world.voya.android
 xke.un.yilu.wfi.pwscnz.foww
+
 
 
 
